@@ -1,0 +1,6 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=185
+
+This is a hack of the sccs-menu.vim plugin to work with Bitkeeper instead.  At this stage things are likely to be broken but feedback (and patches?) are most welcome.
+
+Thanks to Pradeep Unde for the SCCS plugin.
+
